@@ -10,7 +10,7 @@ let isResponseGenerating = false;
 
 // API configuration
 const API_KEY = "AIzaSyCMeo9xDnRApzxP_PQYZM7Jd4gcKHnAQ64"; // Your API key here
-const API_URL = ``https://generativelanguage.googleapis.com/v1/models/gemini-pro:generateContent?key=${API_KEY}``https://generativelanguage.googleapis.com/v1/models/gemini-pro:generateContent?key=${414712345643-cln7htsuv78jr9i64v8v7g6cnhm3ccff.apps.googleusercontent.com}``;
+const API_URL = ` https://customsearch.googleapis.com/customsearch/v1?q=how+to+create+a+music+converter+website&cx=your-custom-search-engine-id&num=8&key=your-google-api-key&alt=json`;
 
 // Load theme and chat data from local storage on page load
 const loadDataFromLocalstorage = () => {
